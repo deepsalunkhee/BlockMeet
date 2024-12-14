@@ -109,6 +109,28 @@ BlockMeet is structured into a clean, modular architecture:
 ![step 4](./readmeImgaes/4.png)
 
 ---
+## 🎥 Our first document representing  BlockMeet as Final Year Project
+
+![BlockMeet](./readmeImgaes/5.png)
+
+---
+
+## Deployment Deatils
+
+
+### Deployment 1:
+
+- **Client**: Deployed on **Vercel**.
+- **Server**: Deployed on **Vercel**.
+- **WebSocketServer**: Deployed on **Render**.
+- **Logging**: Deployed on **Polygon Testnet**.
+
+### Deployment 2:
+
+- Tried to deployed on AWS, even deployed the server on Elatic Beanstalk but  then realized that , this will great http based
+sites and to access camera I need https
+- Then tried to use self signed SSL certificates, but then got to know SSL must have a domain name and other stuff
+- Found some ways to do it but it was all for limited period so droped the idea of deploying on AWS for now...
 
 ## 🌟 Why Choose BlockMeet?  
 - **Decentralized**: Your data is yours alone.  
