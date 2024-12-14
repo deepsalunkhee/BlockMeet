@@ -111,7 +111,7 @@ BlockMeet is structured into a clean, modular architecture:
 ---
 ## 🎥 Our first document representing  BlockMeet as Final Year Project
 
-![BlockMeet](./readmeImgaes/5.png)
+![BlockMeet](./readmeImgaes/5.PNG)
 
 ---
 
