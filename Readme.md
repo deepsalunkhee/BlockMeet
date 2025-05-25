@@ -1,4 +1,7 @@
-
+Note: The application is deployed on free services before frying out pls make sure follwing servers are active before trying
+- https://deepsalunkhee-block-meet-ws-server.onrender.com
+- https://deepsalunkhee-block-meet-server.vercel.app
+- https://blockmeet.deepsalunkhee.com
 # 🚀 BlockMeet: The Decentralized Video Conferencing Revolution 🌐
 
 Welcome to **BlockMeet**, where video conferencing meets decentralization! 🎉 Designed for secure, small-group communication, BlockMeet is perfect for private discussions, sensitive collaborations, and modern tech enthusiasts. Let’s dive in!  
